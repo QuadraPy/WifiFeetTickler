@@ -99,3 +99,5 @@ while connected:
     except KeyboardInterrupt as e:
         print("\n[[EXITING] Aborting program...")
         exit()
+#when i wrote this code, only me and god knew how it worked,now,only god knows it
+#increase manually the number of hours wasted here: 6
